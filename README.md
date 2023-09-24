@@ -2,7 +2,7 @@
 - 👀 I’m interested in Video Games, Tech update, Data analysis
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Portfolio Projects with real world experience
-- 📫 How to reach me ...
+- 📫 How to reach me ... akinkunmifazaz@outlook.com
 
 <!---
 akinkunmi11/akinkunmi11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
